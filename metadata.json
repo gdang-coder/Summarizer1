@@ -1,0 +1,5 @@
+{
+  "name": "InsightVault",
+  "description": "A smart interview transcript analyzer. Save custom prompts, run analysis on transcripts, and query your knowledge base using an LLM.",
+  "requestFramePermissions": []
+}
